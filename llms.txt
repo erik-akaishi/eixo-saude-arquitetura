@@ -1,0 +1,34 @@
+# Eixo Saúde Arquitetura
+
+> Escritório de arquitetura para a área da saúde em Niterói (RJ): clínicas e consultórios com fluxo claro, norma atendida e prazo combinado.
+
+## Páginas
+- [Início](https://erik-akaishi.github.io/eixo-saude-arquitetura/): apresentação, projetos, serviços, processo e contato
+- [Projetos](https://erik-akaishi.github.io/eixo-saude-arquitetura/#projetos): casos selecionados
+- [Soluções](https://erik-akaishi.github.io/eixo-saude-arquitetura/#solucoes): serviços oferecidos
+- [Contato](https://erik-akaishi.github.io/eixo-saude-arquitetura/#contato): conversa pelo WhatsApp
+
+## Serviços
+- Projeto de clínicas: Layout, programa de necessidades e identidade do ambiente.
+- Fluxos e vigilância sanitária: Circulação de paciente, equipe e material conforme a RDC 50.
+- Acessibilidade: Rotas, banheiros e acessos de acordo com a NBR 9050.
+- Compatibilização: Elétrica, hidráulica, ar-condicionado e gases alinhados ao projeto.
+- Acompanhamento de obra: Visitas técnicas e controle de cronograma até a inauguração.
+- Reforma e ampliação: Adequação de espaços em funcionamento, com o mínimo de pausa.
+
+## Projetos em destaque
+- Clínica de Fisioterapia (Niterói · 180 m²): Salão com luz natural, recepção integrada e circulação sem cruzamentos.
+- Consultório Odontológico (Niterói · 62 m²): Compacto, com cadeira junto à janela e bancadas em verde-sálvia.
+- Clínica de Imagem (Niterói · 320 m²): Fachada de vidro, marquise sobre o acesso e rampa acessível.
+
+## Como trabalhamos
+- Briefing de fluxo (1 semana): Entendemos a especialidade, a equipe e como o paciente circula.
+- Estudo e layout (2 a 3 semanas): Apresentamos o layout com fluxos e a identidade do ambiente.
+- Projeto e aprovação (4 a 6 semanas): Projeto executivo e documentos para a vigilância sanitária.
+- Obra e entrega (Conforme a obra): Acompanhamos a obra até a clínica abrir as portas.
+
+## Contato
+- Atendimento em Niterói (RJ), com resposta pelo WhatsApp em até 1 dia útil
+
+## Créditos
+- Site construído por Akaishi Design Studio: https://akaishidesign.com.br
